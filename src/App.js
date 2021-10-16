@@ -1,9 +1,11 @@
-import TopBarIndex from "./HomePage/TopBar/TopBarIndex";
+import TopBarIndex from "./TopBar/TopBarIndex";
+import HomePageIndex from "./Pages/HomePage/HomePageIndex";
 
 function App() {
   return (
       <>
         <TopBarIndex/>
+          <HomePageIndex/>
       </>
 
   );
