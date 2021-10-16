@@ -1,8 +1,11 @@
+import TopBarIndex from "./HomePage/TopBar/TopBarIndex";
+
 function App() {
   return (
-    <div className="App">
+      <>
+        <TopBarIndex/>
+      </>
 
-    </div>
   );
 }
 
